@@ -1,0 +1,15 @@
+
+Sales by Category
+-----------------
+                     sum          mean
+category                              
+Electronics    531620.58  48329.143636
+Sports         204377.02  18579.729091
+Home & Garden  144286.20  13116.927273
+Clothing        75040.71   6821.882727
+Books           26924.63   2447.693636
+
+Time Period: Monthly
+
+Top Category: Electronics
+Bottom Category: Books
